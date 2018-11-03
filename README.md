@@ -10,6 +10,6 @@ This code is for SAP login, only remove the GUI recording and add yours with you
 variable stores the SAP Logonpad "Name " of the System Description you want to execute. (On my work script I use cases to select the enviroment I want to open)
 
 
-#### 2. PowerballGenerator: 
+#### 2. [PowerballGenerator: ](https://github.com/Lep3188/VBS/blob/master/PowerballGenerator.VBS)
 Code to generate random lottery ticket numbers.(Note: This is for entertainment purposes only, not responsible of your gambling choises.)
 
