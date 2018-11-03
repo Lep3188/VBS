@@ -13,3 +13,6 @@ variable stores the SAP Logonpad "Name " of the System Description you want to e
 #### 2. [PowerballGenerator: ](https://github.com/Lep3188/VBS/blob/master/PowerballGenerator.VBS)
 Code to generate random lottery ticket numbers.(Note: This is for entertainment purposes only, not responsible of your gambling choises.)
 
+
+#### 3. [Input to voice: ](https://github.com/Lep3188/VBS/blob/master/PowerballGenerator.VBS)
+Takes user input and transforms it into audio.
