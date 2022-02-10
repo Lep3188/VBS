@@ -18,5 +18,5 @@ Code to generate random lottery ticket numbers.(Note: This is for entertainment 
 Takes user input and transforms it into audio.
 
 
-#### 4. [Input to voice: ](https://github.com/Lep3188/VBS/blob/master/ScreenOn.vbs)
+#### 4. [ScreenOn: ](https://github.com/Lep3188/VBS/blob/master/ScreenOn.vbs)
 Maintains the computer awake, sometimes company’s machines go to sleep if unattended and nothing can prevent it from happening. This script will help to maintain it awake and nobody will find out.
